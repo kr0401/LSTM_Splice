@@ -1,6 +1,6 @@
 # LSTM_Splice
 
-This is early privilaged access to full codes and data for an artcile that is under review in the Journal of Current Genomics. Please hold back from share the contents untill the work has been accepted for publication. 
+This is early privilaged access to full codes and data for an artcile that is under review in the Journal of Current Genomics, the manuscript is placed on Archive at the moment. Please hold back from sharing the contents untill the work has been accepted for publication. Thank you.
 
 In order to run the codes, you will need Python 3.7 or above and TensorFlow 2.3.0 or above
 
