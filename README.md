@@ -2,7 +2,7 @@
 
 This is early privilaged access to full codes and data for an artcile that is under review in the Journal of Current Genomics. Please hold back from share the contents untill the work has been accepted for publication. 
 
-In order to run the codes, you will need Python 3.7 or above and tensorflow or above
+In order to run the codes, you will need Python 3.7 or above and TensorFlow 2.3.0 or above
 
 To run the codes, 
 1. Download the "full_data.csv" data, 
