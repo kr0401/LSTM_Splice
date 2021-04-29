@@ -4,7 +4,7 @@ These are codes for article "Splice Junction Identification using Long Short-Ter
 
 The following process runs the model using 10-fold cross validation. Each fold took on average 112 seconds to train the model and generate results in our Windows 10 OS with Corei7-10750H CPU and 32 GH RAM; total waiting time was around 18 minutes. For systems with lower specifications, waiting time will be longer.  
 
-To run the codes, 
+To run the codes,  
 0. You need Python 3.7 or above and TensorFlow 2.3.0 or above,  
 1. Download the "full_data.csv" data,  
 2. Download the "lstm-splice-10fCV.py" codes,  
