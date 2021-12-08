@@ -1,6 +1,6 @@
 # LSTM_Splice
 
-These are codes for article "Splice Junction Identification using Long Short-Term Memory Neural Networks" accepted for publication in journal of Current Genomics. Please cite the article when using the codes. In case you have ideas for future improvements and developments, contact the corresponding author. Thank you.  
+These are codes for peer-reviewed article "Splice Junction Identification using Long Short-Term Memory Neural Networks" published in the [Journal of Current Genomics](https://www.eurekaselect.com/197164/article). Please cite the article when using the codes. In case you have ideas for future improvements and developments, contact the corresponding author. Thank you.  
 
 The following process runs the model using 10-fold cross validation. Each fold took on average 112 seconds to train the model and generate results in our Windows 10 OS with Corei7-10750H CPU and 32 GH RAM; total waiting time was around 18 minutes. For systems with lower specifications, waiting time will be longer.  
 
